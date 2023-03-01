@@ -1,0 +1,179 @@
+{
+  "movies": [
+    {
+      "id": "MOV00001",
+      "kategori": "action",
+      "title": "Superman",
+      "price": 50,
+      "is_ready": true,
+      "image": "superman.jpg"
+    },
+    {
+      "id": "MOV00002",
+      "kategori": "action",
+      "title": "Ant Man",
+      "price": 50,
+      "is_ready": true,
+      "image": "antman.jpg"
+    },
+    {
+      "id": "MOV00003",
+      "kategori": "action",
+      "title": "Batman",
+      "price": 50,
+      "is_ready": true,
+      "image": "batman.jpg"
+    },
+    {
+      "id": "MOV00004",
+      "kategori": "action",
+      "title": "Robinhood",
+      "price": 50,
+      "is_ready": true,
+      "image": "robinhood.jpg"
+    },
+    {
+      "id": "MOV00005",
+      "kategori": "action",
+      "title": "Avenger",
+      "price": 50,
+      "is_ready": true,
+      "image": "avenger.jpg"
+    },
+    {
+      "id": "MOV00006",
+      "kategori": "action",
+      "title": "Dune",
+      "price": 50,
+      "is_ready": true,
+      "image": "dune.jpg"
+    },
+    {
+      "id": "MOV00007",
+      "kategori": "action",
+      "title": "Everything",
+      "price": 50,
+      "is_ready": true,
+      "image": "everything.jpg"
+    },
+    {
+      "id": "MOV00008",
+      "kategori": "action",
+      "title": "Infinite",
+      "price": 50,
+      "is_ready": true,
+      "image": "infinite.jpg"
+    },
+    {
+      "id": "MOV00009",
+      "kategori": "action",
+      "title": "Joker",
+      "price": 50,
+      "is_ready": true,
+      "image": "joker.jpg"
+    },
+    {
+      "id": "MOV00010",
+      "kategori": "action",
+      "title": "Morbius",
+      "price": 50,
+      "is_ready": true,
+      "image": "morbius.jpg"
+    }
+  ],
+  "trending": [
+    {
+      "id": "MOV00006",
+      "kategori": "action",
+      "title": "Dune",
+      "price": 50,
+      "is_ready": true,
+      "image": "dune.jpg"
+    },
+    {
+      "id": "MOV00007",
+      "kategori": "action",
+      "title": "Everything",
+      "price": 50,
+      "is_ready": true,
+      "image": "everything.jpg"
+    },
+    {
+      "id": "MOV00008",
+      "kategori": "action",
+      "title": "Infinite",
+      "price": 50,
+      "is_ready": true,
+      "image": "infinite.jpg"
+    },
+    {
+      "id": "MOV00009",
+      "kategori": "action",
+      "title": "Joker",
+      "price": 50,
+      "is_ready": true,
+      "image": "joker.jpg"
+    },
+    {
+      "id": "MOV00010",
+      "kategori": "action",
+      "title": "Morbius",
+      "price": 50,
+      "is_ready": true,
+      "image": "morbius.jpg"
+    }
+  ],
+  "favourite": [
+    {
+      "id": "MOV00002",
+      "kategori": "action",
+      "title": "Ant Man",
+      "price": 50,
+      "is_ready": true,
+      "image": "antman.jpg"
+    },
+    {
+      "id": "MOV00003",
+      "kategori": "action",
+      "title": "Batman",
+      "price": 50,
+      "is_ready": true,
+      "image": "batman.jpg"
+    },
+    {
+      "id": "MOV00010",
+      "kategori": "action",
+      "title": "Morbius",
+      "price": 50,
+      "is_ready": true,
+      "image": "morbius.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "jumlahPesan": "3",
+      "dataMovie": {
+        "id": "MOV00002",
+        "kategori": "action",
+        "title": "Ant Man",
+        "price": 50,
+        "is_ready": true,
+        "image": "antman.jpg"
+      },
+      "id": 3
+    },
+    {
+      "jumlahPesan": "2",
+      "dataMovie": {
+        "id": "MOV00005",
+        "kategori": "action",
+        "title": "Avenger",
+        "price": 50,
+        "is_ready": true,
+        "image": "avenger.jpg"
+      },
+      "id": 4
+    }
+  ],
+  "dipesan": []
+}
